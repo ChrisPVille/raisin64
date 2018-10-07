@@ -1,0 +1,6 @@
+[submodule "cpu"]
+	path = cpu
+	url = https://github.com/ChrisPVille/raisin64-cpu
+[submodule "docs"]
+	path = docs
+	url = https://github.com/ChrisPVille/raisin64-docs
