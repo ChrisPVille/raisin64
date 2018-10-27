@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/ChrisPVille/raisin64-docs
+[submodule "binutils"]
+	path = binutils
+	url = https://github.com/ChrisPVille/raisin64-binutils
