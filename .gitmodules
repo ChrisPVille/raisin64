@@ -7,3 +7,7 @@
 [submodule "binutils"]
 	path = binutils
 	url = https://github.com/ChrisPVille/raisin64-binutils
+[submodule "openocd"]
+	path = openocd
+	url = https://github.com/ChrisPVille/raisin64-openocd
+	branch = raisin64
